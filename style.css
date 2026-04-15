@@ -1,0 +1,29 @@
+p {
+    display: block;
+    color: red;
+    font-size: 6em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#btnContainer {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 15px;
+    text-align: center;
+    color: white;
+    background-color: rgb(97, 97, 241);
+    cursor: pointer;
+    transition: 10sec;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: rgb(3, 3, 162);
+}
+
+body {
+    background-color:aqua;
+}
